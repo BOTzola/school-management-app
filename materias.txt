@@ -1,0 +1,5 @@
+3:Laboratorio de Computacion II
+2:Matematica II
+1:Matematica I
+4:Laboratorio de Computacion IV
+5:Metodologia de Sistemas II
